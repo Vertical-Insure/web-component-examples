@@ -7,7 +7,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "^10.2.3",
+    "next": "^14.1.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   },
